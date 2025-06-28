@@ -6,6 +6,21 @@
 
 ### GitHub Stats
 
-![](https://github-readme-stats.vercel.app/api?username=nourist&theme=dracula&hide_border=true&include_all_commits=false&count_private=true&show_icons=true&rank_icon=github#gh-dark-mode-only) ![](https://github-readme-stats.vercel.app/api/top-langs/?username=nourist&theme=dracula&hide_border=true&include_all_commits=false&count_private=true&layout=compact#gh-dark-mode-only)
-
-![](https://github-readme-stats.vercel.app/api?username=nourist&theme=light&hide_border=true&include_all_commits=false&count_private=true&show_icons=true&rank_icon=github#gh-light-mode-only) ![](https://github-readme-stats.vercel.app/api/top-langs/?username=nourist&theme=light&hide_border=true&include_all_commits=false&count_private=true&layout=compact#gh-light-mode-only)
+<picture style="display: inline-block;">
+  	<source
+		srcset="https://github-readme-stats.vercel.app/api?username=nourist&theme=dracula&hide_border=true&include_all_commits=false&count_private=true&show_icons=true&rank_icon=github"
+		media="(prefers-color-scheme: dark)"
+	/>
+  	<img
+		src="https://github-readme-stats.vercel.app/api?username=nourist&theme=light&hide_border=true&include_all_commits=false&count_private=true&show_icons=true&rank_icon=github" 
+	/>
+</picture> 
+<picture style="display: inline-block;">
+  	<source
+		srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=nourist&theme=dracula&hide_border=true&include_all_commits=false&count_private=true&layout=compact"
+		media="(prefers-color-scheme: dark)"
+	/>
+  	<img 
+		src="https://github-readme-stats.vercel.app/api/top-langs/?username=nourist&theme=light&hide_border=true&include_all_commits=false&count_private=true&layout=compact" 
+	/>
+</picture>
